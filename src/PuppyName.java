@@ -8,8 +8,7 @@ public class PuppyName {
 	}
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	
 		PuppyName myPuppy = new PuppyName ("Gafril.");
 		
 	}
